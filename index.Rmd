@@ -1,5 +1,5 @@
 ---
-title: "Josh_PM_Lab"
+title: "JoshPM_Lab"
 ---
 
 Hello, Website!
