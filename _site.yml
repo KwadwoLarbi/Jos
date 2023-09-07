@@ -1,8 +1,11 @@
-name: "Josh_PM_Lab"
+name: "JOSH_PhytoPathoHub"
+output_dir: "docs" 
 navbar:
-  title: "Josh_PM_Lab"
+  title: "JOSH_PhytopathoHub"
   left:
     - text: "Home"
       href: index.html
     - text: "About"
       href: about.html
+    - text: "Repository"
+      href: repository.html

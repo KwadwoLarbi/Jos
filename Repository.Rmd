@@ -1,0 +1,32 @@
+---
+title: "Repository"
+output: 
+  html_document: 
+    highlight: monochrome
+    theme: flatly
+---
+
+# Projects and Publications
+
+## Projects
+
+* Morphological and Physiological Characterisation of three Morphotypes of the Thread Blight Disease Fungi of cocoa (Theobroma cacao) in Ghana and their control by Biofungicides from three medicinal Plants (*Azadirachta indica* A. Juss, *Ricinus communis* L. and *Thevetia eruviana* Juss. Ex. A. Dc.)
+
+* Mycological profile of some imported spices and seasonings in 
+Ghana and their mycotoxigenic potential
+
+
+## Publications
+* **Addo, J.**, Odamtten, G.T. & Anyebuno, G. (2022). Mycoflora and 
+influence of moisture on the mycological profile and their mycotoxigenic 
+potential in some imported spices and seasonings on the Ghanaian 
+market. World Journal of Biology and Biotechnology. 
+Doi:10.33865/wjb.007.03.0691
+
+* Odamtten, G.T., **Addo, J.** & Wiafe-Kwagyan, M. (2021). Record 
+of medicinal jelly (Auricularia auricula-Judae (Bull.) Quél) ear 
+mushroom growing in the Greater Accra Region, Ghana and its 
+possible health values. Ghana J. Sci. 62 (2), 2021, 25 – 35. 
+DOI:10.4314/gjs.v62i2.3 (Corresponding Author).
+
+
