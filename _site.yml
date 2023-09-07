@@ -1,3 +1,4 @@
+
 name: "JOSH_PhytoPathoHub"
 output_dir: "docs" 
 navbar:
@@ -8,4 +9,4 @@ navbar:
     - text: "About"
       href: about.html
     - text: "Repository"
-      href: repository.html
+      href: Repository.html
